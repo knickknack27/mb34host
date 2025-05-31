@@ -1,4 +1,4 @@
-# MB-Voice-SM: Magic Bricks Voice Assistant
+# Raj AI: A Real-Estate Voice Assistant by Dhruv Kant Ladia
 
 ## Project Overview
 
